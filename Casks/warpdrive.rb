@@ -1,6 +1,6 @@
 cask "warpdrive" do
   version "0.1.0"
-  sha256 :no_check
+  sha256 "c2fd3ed45fbed378a8abdfb28a78b7a3b4adb9f0bf6e0662ba867dd22145ce00"
 
   url "https://github.com/JMrtzsn/warpdrive/releases/download/v#{version}/Warpdrive-macos-arm64.zip"
   name "Warpdrive"
